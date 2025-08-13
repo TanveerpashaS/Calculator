@@ -1,1 +1,3 @@
-BASIC CALCULATOR :   I have built this using HTML,CSS and JAVASCRIPT.These is the basic level project for the learners and developers who want to built and also I learnt lot of things from these project.
+
+BASIC CALCULATOR :   I have built this using HTML,CSS and JAVASCRIPT.These is the basic level project for the learners and developers who want to built and also I learnt lot of things from these projects
+
